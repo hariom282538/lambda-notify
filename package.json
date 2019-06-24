@@ -1,0 +1,19 @@
+{
+  "name": "notification-api",
+  "version": "1.0.0",
+  "description": "Notification Module",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hariom Vashisth",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-offline": "^3.31.3"
+  },
+  "dependencies": {
+    "slack-notify": "^0.1.7",
+    "payload-validator": "^1.0.4"
+  }
+}
