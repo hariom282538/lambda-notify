@@ -10,7 +10,7 @@
   "author": "Hariom Vashisth",
   "license": "MIT",
   "devDependencies": {
-    "serverless-offline": "^6.8.0"
+    "serverless-offline": "^12.0.4"
   },
   "dependencies": {
     "slack-notify": "^0.1.7",
